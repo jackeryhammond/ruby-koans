@@ -7,7 +7,7 @@
 | Koan Name | Complete? |
 | -------- | ---------- |
 | about_asserts | ☑️ |
-| about_nil | |
+| about_nil | ☑️ |
 | about_objects | |
 | about_arrays | |
 | about_array_assignment | |
