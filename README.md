@@ -9,7 +9,7 @@
 | about_asserts | ☑️ |
 | about_nil | ☑️ |
 | about_objects | ☑️ |
-| about_arrays | |
+| about_arrays | ☑️ |
 | about_array_assignment | |
 | about_hashes | |
 | about_strings | |
