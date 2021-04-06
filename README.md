@@ -10,8 +10,8 @@
 | about_nil | ☑️ |
 | about_objects | ☑️ |
 | about_arrays | ☑️ |
-| about_array_assignment | |
-| about_hashes | |
+| about_array_assignment | ☑️ |
+| about_hashes | ☑️ |
 | about_strings | |
 | about_symbols | |
 | about_regular_expressions | |
