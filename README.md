@@ -6,7 +6,7 @@
 
 | Koan Name | Complete? |
 | -------- | ---------- |
-| about_asserts | |
+| about_asserts | ☑️ |
 | about_nil | |
 | about_objects | |
 | about_arrays | |
@@ -39,5 +39,3 @@
 | about_to_str | |
 | about_java_interop | |
 | about_extra_credit | |
-
-☑️
