@@ -12,11 +12,11 @@
 | about_arrays | ☑️ |
 | about_array_assignment | ☑️ |
 | about_hashes | ☑️ |
-| about_strings | |
-| about_symbols | |
-| about_regular_expressions | |
-| about_methods | |
-| about_keyword_arguments | |
+| about_strings | ☑️ |
+| about_symbols | ☑️ |
+| about_regular_expressions | ☑️ |
+| about_methods | ☑️ |
+| about_keyword_arguments | ☑️ |
 | about_constants | |
 | about_control_statements | |
 | about_true_and_false | |
